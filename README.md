@@ -1,0 +1,4 @@
+squared
+=======
+
+square
